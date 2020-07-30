@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c58cf74-f30d-48e3-9e3f-32a686e33a54" name="Default Changelist" comment="" />
+    <list default="true" id="5c58cf74-f30d-48e3-9e3f-32a686e33a54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1fMlPvoNKE7bMvhqN9eufi9Mpb6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +48,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596035822022</updated>
-      <workItem from="1596035823114" duration="2580000" />
+      <workItem from="1596035823114" duration="2886000" />
+      <workItem from="1596103193735" duration="932000" />
     </task>
     <servers />
   </component>
@@ -59,6 +65,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="626" y="309" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1596038418198" />
+    <state x="551" y="115" key="Github.UntrackedFilesDialog" timestamp="1596038442063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="115" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596038442063" />
     <state x="0" y="59" key="SettingsEditor" timestamp="1596038099880">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
